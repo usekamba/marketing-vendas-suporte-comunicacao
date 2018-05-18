@@ -11,7 +11,7 @@ Possui Super Motivação e Disponibilidade em fazer parte de uma Startup, entend
 **E mais:**
 - Possui uma comunicação oral e escrita bem estruturada
 - Finaliza suas tarefas diariamente
-- É organizado(a) e focado(a) em execução;
+- É organizado(a) e focado(a) em execução
 - É multi-tarefa e consegue lidar bem com pressão
 - Adora tecnologia e deseja revolucionar o mercado financeiro através da Internet
 - É impaciente até que um problema seja de fato solucionado
@@ -25,9 +25,9 @@ As perguntas do Teste devem ser respondidas no **[Google Docs](https://docs.goog
  
 ## Comunicação, Suporte 
 
-Responda as seguintes perguntas de forma curta com SIM, Não e um breve porquê.
+Responda as seguintes perguntas de forma curta com SIM, Não e um breve porquê. Responda apenas as perguntas com **ponto de interrogração ???**
 
-Você possui:
+**Você possui:**
 - Conhecimento em Gestão de Mídias Sociais? (Nos envie páginas que já geriu)
 - E de Websites? (nos envie sites, blogs que já contribuiu)
 - Experiência básica em produção de conteúdo para sites, blogs e mídias digitais? Revisar e atualizar conteúdos publicados? Nos envie conteúdos passados.
@@ -51,6 +51,8 @@ Aqui na Kamba apostamos muito na educação dos nossos Usuários. Por isso, um d
 ## Marketing, Vendas
 
 **Nota:** Desejável conhecimento nas plataformas: **Google Analytics, Google Adwords, MailChimp, Redes Sociais, Google Search Console e Word Press** ou motivação e rápida adaptação para aprendizagem.
+
+Responda as seguintes perguntas de forma curta com SIM, Não e um breve porquê. Responda apenas as perguntas com **ponto de interrogração ???**
 
 **Você:**
 
